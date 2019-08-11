@@ -1,0 +1,9 @@
+- **chdir()**	Changes the current directory
+- **chroot()**	Changes the root directory
+- **closedir()**	Closes a directory handle
+- **dir()**	Returns an instance of the Directory class
+- **getcwd()**	Returns the current working directory
+- **opendir()**	Opens a directory handle
+- **readdir()**	Returns an entry from a directory handle
+- **rewinddir()**	Resets a directory handle
+- **scandir()**	Returns an array of files and directories of a specified directory
