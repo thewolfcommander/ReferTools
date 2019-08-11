@@ -1,0 +1,18 @@
+- **cal_days_in_month()**	Returns the number of days in a month for a specified year and calendar
+- **cal_from_jd()**	Converts a Julian Day Count into a date of a specified calendar
+- **cal_info()**	Returns information about a specified calendar
+- **cal_to_jd()**	Converts a date in a specified calendar to Julian Day Count
+- **easter_date()**	Returns the Unix timestamp for midnight on Easter of a specified year
+- **easter_days()**	Returns the number of days after March 21, that the Easter Day is in a specified year
+- **frenchtojd()**	Converts a French Republican date to a Julian Day Count
+- **gregoriantojd()**	Converts a Gregorian date to a Julian Day Count
+- **jddayofweek()**	Returns the day of the week
+- **jdmonthname()**	Returns a month name
+- **jdtofrench()**	Converts a Julian Day Count to a French Republican date
+- **jdtogregorian()**	Converts a Julian Day Count to a Gregorian date
+- **jdtojewish()**	Converts a Julian Day Count to a Jewish date
+- **jdtojulian()**	Converts a Julian Day Count to a Julian date
+- **jdtounix()**	Converts Julian Day Count to Unix timestamp
+- **jewishtojd()**	Converts a Jewish date to a Julian Day Count
+- **juliantojd()**	Converts a Julian date to a Julian Day Count
+- **unixtojd()**	Converts Unix timestamp to Julian Day Count
