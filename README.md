@@ -13,10 +13,10 @@ This Project is developed in order to help the developers who know basics, in th
 
 ### [PHP](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/)
 
-**[PHP Array Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20array%20functions)**
-**[PHP Calendar Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20calendar%20functions%20and%20constants)**
-**[PHP Date Time Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20date%20time%20functions%20and%20constants)**
-**[PHP Directory Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20directory%20functions)**
+- **[PHP Array Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20array%20functions)**
+- **[PHP Calendar Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20calendar%20functions%20and%20constants)**
+- **[PHP Date Time Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20date%20time%20functions%20and%20constants)**
+- **[PHP Directory Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20directory%20functions)**
 
 
 ## Note: 
