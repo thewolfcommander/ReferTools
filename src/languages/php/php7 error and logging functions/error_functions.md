@@ -1,0 +1,12 @@
+- **debug_backtrace()**	Generates a backtrace
+- **debug_print_backtrace()**	Prints a backtrace
+- **error_clear_last()**	Clears the last error
+- **error_get_last()**	Returns the last error that occurred
+- **error_log()**	Sends an error message to a log, to a file, or to a mail account
+- **error_reporting()**	Specifies which errors are reported
+- **restore_error_handler()**	Restores the previous error handler
+- **restore_exception_handler()**	Restores the previous exception handler
+- **set_error_handler()**	Sets a user-defined error handler function
+- **set_exception_handler()**	Sets a user-defined exception handler function
+- **trigger_error()**	Creates a user-level error message
+- **user_error()**	Alias of trigger_error()
