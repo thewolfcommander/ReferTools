@@ -1,0 +1,81 @@
+basename()	Returns the filename component of a path
+chgrp()	Changes the file group
+chmod()	Changes the file mode
+chown()	Changes the file owner
+clearstatcache()	Clears the file status cache
+copy()	Copies a file
+delete()	See unlink() or unset()
+dirname()	Returns the directory name component of a path
+disk_free_space()	Returns the free space of a filesystem or disk
+disk_total_space()	Returns the total size of a filesystem or disk
+diskfreespace()	Alias of disk_free_space()
+fclose()	Closes an open file
+feof()	Checks if the "end-of-file" (EOF) has been reached for an open file
+fflush()	Flushes buffered output to an open file
+fgetc()	Returns a single character from an open file
+fgetcsv()	Returns a line from an open CSV file
+fgets()	Returns a line from an open file
+fgetss()	Deprecated from PHP 7.3. Returns a line from an open file - stripped from HTML and PHP tags
+file()	Reads a file into an array
+file_exists()	Checks whether or not a file or directory exists
+file_get_contents()	Reads a file into a string
+file_put_contents()	Writes data to a file
+fileatime()	Returns the last access time of a file
+filectime()	Returns the last change time of a file
+filegroup()	Returns the group ID of a file
+fileinode()	Returns the inode number of a file
+filemtime()	Returns the last modification time of a file
+fileowner()	Returns the user ID (owner) of a file
+fileperms()	Returns the file's permissions
+filesize()	Returns the file size
+filetype()	Returns the file type
+flock()	Locks or releases a file
+fnmatch()	Matches a filename or string against a specified pattern
+fopen()	Opens a file or URL
+fpassthru()	Reads from the current position in a file - until EOF, and writes the result to the output buffer
+fputcsv()	Formats a line as CSV and writes it to an open file
+fputs()	Alias of fwrite()
+fread()	Reads from an open file (binary-safe)
+fscanf()	Parses input from an open file according to a specified format
+fseek()	Seeks in an open file
+fstat()	Returns information about an open file
+ftell()	Returns the current position in an open file
+ftruncate()	Truncates an open file to a specified length
+fwrite()	Writes to an open file (binary-safe)
+glob()	Returns an array of filenames / directories matching a specified pattern
+is_dir()	Checks whether a file is a directory
+is_executable()	Checks whether a file is executable
+is_file()	Checks whether a file is a regular file
+is_link()	Checks whether a file is a link
+is_readable()	Checks whether a file is readable
+is_uploaded_file()	Checks whether a file was uploaded via HTTP POST
+is_writable()	Checks whether a file is writable
+is_writeable()	Alias of is_writable()
+lchgrp()	Changes the group ownership of a symbolic link
+lchown()	Changes the user ownership of a symbolic link
+link()	Creates a hard link
+linkinfo()	Returns information about a hard link
+lstat()	Returns information about a file or symbolic link
+mkdir()	Creates a directory
+move_uploaded_file()	Moves an uploaded file to a new location
+parse_ini_file()	Parses a configuration file
+parse_ini_string()	Parses a configuration string
+pathinfo()	Returns information about a file path
+pclose()	Closes a pipe opened by popen()
+popen()	Opens a pipe
+readfile()	Reads a file and writes it to the output buffer
+readlink()	Returns the target of a symbolic link
+realpath()	Returns the absolute pathname
+realpath_cache_get()	Returns realpath cache entries
+realpath_cache_size()	Returns realpath cache size
+rename()	Renames a file or directory
+rewind()	Rewinds a file pointer
+rmdir()	Removes an empty directory
+set_file_buffer()	Alias of stream_set_write_buffer(). Sets the buffer size for write operations on the given file
+stat()	Returns information about a file
+symlink()	Creates a symbolic link
+tempnam()	Creates a unique temporary file
+tmpfile()	Creates a unique temporary file
+touch()	Sets access and modification time of a file
+umask()	Changes file permissions for files
+unlink()	Deletes a file
