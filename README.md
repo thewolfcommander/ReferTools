@@ -11,12 +11,12 @@ This Project is developed in order to help the developers who know basics, in th
 
 ## Navigation for Languages
 
-### [PHP](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/)
+### [PHP](https://github.com/thewolfcommander/ReferTools/tree/master/src/languages/php/)
 
-- **[PHP Array Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20array%20functions)**
-- **[PHP Calendar Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20calendar%20functions%20and%20constants)**
-- **[PHP Date Time Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20date%20time%20functions%20and%20constants)**
-- **[PHP Directory Functions](https://github.com/neo-0224/ReferTools/tree/master/src/languages/php/php7%20directory%20functions)**
+- **[PHP Array Functions](https://github.com/thewolfcommander/ReferTools/tree/master/src/languages/php/php7%20array%20functions)**
+- **[PHP Calendar Functions](https://github.com/thewolfcommander/ReferTools/tree/master/src/languages/php/php7%20calendar%20functions%20and%20constants)**
+- **[PHP Date Time Functions](https://github.com/thewolfcommander/ReferTools/tree/master/src/languages/php/php7%20date%20time%20functions%20and%20constants)**
+- **[PHP Directory Functions](https://github.com/thewolfcommander/ReferTools/tree/master/src/languages/php/php7%20directory%20functions)**
 
 
 ## Note: 
@@ -27,11 +27,11 @@ If you know some of the functions in any programming language and also how they 
 
 All you need to do is clone this repo, choose your stack and make a folder of your snippet. Inside that folder keep your files separate. Must include a GUIDE.txt and inside that file, you should keep your name and about you in atmost 50 words. Then you should mention every single detail related to the snippet that can confuse the devlopers.
 
-[click here](https://github.com/neo-0224/ReferTools/) to Contribute to Project Now
+[click here](https://github.com/thewolfcommander/ReferTools/) to Contribute to Project Now
 
 Thank you.
 
-## [click here](https://neo-0224.github.io/ReferTools/) to see live version.
+## [click here](https://thewolfcommander.github.io/ReferTools/) to see live version.
 
 
 ## About Me:
@@ -41,5 +41,5 @@ I am an Engineering Undergraduate student from India. Basically I have been fasc
 Want to ping me?
 
 [Facebook](https://www.facebook.com/profile.php?id=100009926198901)
-[Instagram](https://www.instagram.com/m0nuu.tyagi_g)
+[Instagram](https://www.instagram.com/the.monu.tyagi)
 [LinkedIn](https://www.linkedin.com/in/iammanojtyagi/)
